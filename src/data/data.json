@@ -1,0 +1,179 @@
+{
+  "Header": {
+    "title": "Ontario's best paint services ",
+    "paragraph": "You dream of painting and then we paint your dream"
+  },
+  "About": {
+    "paragraph": "AU Painting and Renovations inc is best among the best paint service providers, had been helping Trontonians and Canadians to the best of its abilities for more than 12 years. We have created a family not clients.We provide clean , efficient and quick paint services. We had achieved so many awards togethor, awards in terms of more work by our AU Painting happy family members, 5 start rating on HomeStars and many more.",
+    "Why": [
+      "More than 12 years of proven industry experience",
+      "Assign painters in less than 2 business days for you project",
+      "Open 7 days a week ",
+      "5 Star reviews on HomeStars"
+    ],
+    "Why2": [
+      "Reliability and speed is our key to success",
+      "We are known for our Cleanliness and dapperness ",
+      "We treat customers as our families",
+      "We paint home owners dream"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Front of House",
+      "largeImage": "img/portfolio/houseFront.jpg",
+      "smallImage": "img/portfolio/houseFront.jpg"
+    },
+    {
+      "title": "Washroom",
+      "largeImage": "img/portfolio/gal3.jpg",
+      "smallImage": "img/portfolio/gal3.jpg"
+    },
+    {
+      "title": "Resturant Roof",
+      "largeImage": "img/portfolio/resturant.jpg",
+      "smallImage": "img/portfolio/resturant.jpg"
+    },
+    {
+      "title": "Resturant",
+      "largeImage": "img/portfolio/resturant2.jpg",
+      "smallImage": "img/portfolio/resturant2.jpg"
+    },
+    {
+      "title": "Clean Taped floor",
+      "largeImage": "img/portfolio/taped_floor.jpg",
+      "smallImage": "img/portfolio/taped_floor.jpg"
+    },
+    {
+      "title": "Room Roof",
+      "largeImage": "img/portfolio/roof1.jpg",
+      "smallImage": "img/portfolio/roof1.jpg"
+    },
+    {
+      "title": "Deck",
+      "largeImage": "img/portfolio/deck.jpg",
+      "smallImage": "img/portfolio/deck.jpg"
+    },
+    {
+      "title": "Stairs",
+      "largeImage": "img/portfolio/ba_stairs.jpg",
+      "smallImage": "img/portfolio/ba_stairs.jpg"
+    },
+    {
+      "title": "Storage Room",
+      "largeImage": "img/portfolio/storage.jpg",
+      "smallImage": "img/portfolio/storage.jpg"
+    },
+    {
+      "title": "Garage Door",
+      "largeImage": "img/portfolio/garage.jpg",
+      "smallImage": "img/portfolio/garage.jpg"
+    },
+    {
+      "title": "Room",
+      "largeImage": "img/portfolio/room3.jpg",
+      "smallImage": "img/portfolio/room3.jpg"
+    },
+    {
+      "title": "Stairs",
+      "largeImage": "img/portfolio/stairs.jpg",
+      "smallImage": "img/portfolio/stairs.jpg"
+    },
+    {
+      "title": "light pole",
+      "largeImage": "img/portfolio/before.jpg",
+      "smallImage": "img/portfolio/before.jpg"
+    },
+    {
+      "title": "colored Wall",
+      "largeImage": "img/portfolio/wall2.jpg",
+      "smallImage": "img/portfolio/wall2.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "img/icons/painting.svg",
+      "name": "Residential",
+      "text": "We have interior paint specialists, who not only offer free colour consultations, but also offer  clean and qick services for our AU family all over Toronto. AU home painting services include: interior wall, trim, door and ceiling painting, condominium painting, cabinet spray painting, popcorn ceiling removal, wallpaper installation and removal, staircase painting and refinishing and drywall installation and repair."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Commercial",
+      "text": "Does your business environment need a serious makeover? AU Painters is proud to offer commercial painting services that will not only amplify your office or large scale business with tremendous new interior painting colours, but our affectionate and personable team of professional painters will come in quickly, do their work professionally and cause minimal disruption to your business establishment."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Stucco Removing",
+      "text": "At AU Painters,We understand why you want to get rid of your dusty and outdated ceilings and enjoy a new look and feel in your home. We’ve helped hundreds of homes with popcorn ceiling removals done professionally and with 100% Satisfaction Guaranteed , Seamless, painless and fast."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Dry Way Sealers",
+      "text": "Asphalt seal coating and driveway sealing is the process by which a thin layer of specialized asphalt sealer is laid over a paved surface to increase the durability and longevity of the surface.INCREASE YOUR PAVEMENT’S LIFE EXPECTANCY,IMPROVE THE APPEARANCE OF YOUR PAVEMENT and most importantly SPEED-UP SNOW AND ICE MELT"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Deck and Fence Painting",
+      "text": "At AU Painters, we know how much the exterior of your home means to you. That’s why we have included deck painting and fence staining in our home painting services. Our experienced exterior house painters take pride in their deck staining and fence painting expertise, and also guide you with color consultations which would be suitable according to your budget and will also enhance the beauty of you home."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "HandyMan",
+      "text": "Do you have a small project that requires a reliable handyman but you can’t find anyone to fulfill these specific requirements? Not only do we provide excellent home painting services, but we also have professional handyman on staff, full equipped to help with your small projects with specific requirements, particularly related to interior painting, exterior painting, fixing door jambs as well as casings or wainscoting, wood trim repair, repairing staircases and banisters and hardwood flooring."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/7.jpg",
+      "text": "Great job",
+      "name": "David Poole"
+    },
+    {
+      "img": "img/testimonials/8.jpg",
+      "text": "Their communication is great and overall finish is very high quality",
+      "name": "Johnathan Smith"
+    },
+    {
+      "img": "img/testimonials/9.jpg",
+      "text": "Our interior was done on time and very neatly. Great Job",
+      "name": "Jagmeet Singh"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/wahab.jpg",
+      "name": "Wahab Ahamd",
+      "job": "Director"
+    }
+  ],
+  "Contact": {
+    "address": "120 Lamar street Maple L6A-LA7",
+    "phone": "+1 647-782-3400",
+    "email": "info@aupainting.ca",
+    "facebook": "fb.com",
+    "instagram": "https://www.instagram.com/aupaint.ca",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
